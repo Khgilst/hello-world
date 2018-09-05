@@ -1,2 +1,4 @@
 # hello-world
-Learning ot use Git
+Learning to use Git
+
+Clemson CPSC Major
